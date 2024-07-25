@@ -1,0 +1,38 @@
+.Navbar{
+    position: fixed;
+    width: 100%;
+    /* background-color: rgb(235, 224, 224); */
+    color: rgb(251, 245, 245);
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0;
+    z-index: 100;
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.navigation{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.navigation li{
+    display: inline;
+    margin: 0 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.navigation li:hover{
+    cursor: pointer;
+    color: rgb(110, 153, 218);
+}
