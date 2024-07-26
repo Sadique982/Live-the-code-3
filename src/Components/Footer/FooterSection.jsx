@@ -9,7 +9,7 @@ const FooterSection = () => {
       </h5>
       <MediaLogo />
       <div className="footer-content">
-        Copyright © UHackathon 4.0 | All rights reserved
+        Copyright © Live the code 3.0 | All rights reserved
       </div>
     </div>
   );
