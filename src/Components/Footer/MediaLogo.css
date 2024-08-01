@@ -1,19 +1,11 @@
 .logo-section {
   margin: 3%;
 }
-.instagram-logo {
+a{
   margin-right: 10px;
-  cursor: pointer;
+
 }
-.twitter-logo {
-  margin-right: 10px;
-  cursor: pointer;
-}
-.facebook-logo {
-  margin-right: 10px;
-  cursor: pointer;
-}
-.youtube-logo {
-  margin-right: 10px;
-  cursor: pointer;
+svg:hover {
+  background-color: #6c1f93;
+  border-radius: 50%;
 }
